@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><defs>
+ <linearGradient id="burn" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb487"/><stop offset=".45" stop-color="#ff6945"/><stop offset="1" stop-color="#e64222"/></linearGradient>
+ <linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#323035"/><stop offset="1" stop-color="#121317"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ff6945" stop-opacity=".3"/><stop offset="1" stop-color="#ff6945" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="210%"><feDropShadow dx="1" dy="23" stdDeviation="22" flood-color="#000000" flood-opacity=".5"/></filter>
+ <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="28"/></filter>
+ </defs><circle cx="50" cy="50" r="47" fill="#ff6945" fill-opacity=".06" stroke="#ff6945" stroke-opacity=".18"/><g fill="none" stroke="#191719" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="37"/><path d="M13 50h74M50 13v74M23 26q27 23 54 0M23 74q27-23 54 0M38 15q-26 35 0 70M62 15q26 35 0 70"/></g></svg>

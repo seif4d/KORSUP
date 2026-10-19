@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540"><defs>
+ <linearGradient id="burn" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb487"/><stop offset=".45" stop-color="#ff6945"/><stop offset="1" stop-color="#e64222"/></linearGradient>
+ <linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#323035"/><stop offset="1" stop-color="#121317"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ff6945" stop-opacity=".3"/><stop offset="1" stop-color="#ff6945" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="210%"><feDropShadow dx="1" dy="23" stdDeviation="22" flood-color="#000000" flood-opacity=".5"/></filter>
+ <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="28"/></filter>
+ </defs><rect width="1000" height="540" rx="24" fill="#1b1b1f"/>
+<circle cx="742" cy="260" r="205" fill="url(#glow)"/>
+<path d="M45 446Q490 550 954 363" fill="none" stroke="#ff6945" stroke-width="3" stroke-opacity=".65" stroke-dasharray="5 10"/>
+<g transform="translate(115 55) rotate(-10 300 232)" filter="url(#shadow)"><rect x="0" y="0" width="430" height="425" rx="26" fill="#c9f2a3"/><text x="31" y="68" font-size="26" font-weight="800" fill="#21271e" font-family="Arial,sans-serif">01 / DIGITAL PACK</text><path d="M90 320l125-125m0 0v102m0-102H113" fill="none" stroke="#21271e" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(288 45) rotate(5 300 232)" filter="url(#shadow)"><rect x="0" y="0" width="461" height="453" rx="27" fill="#f3f0e9"/><text x="36" y="81" font-size="31" fill="#1b1b1f" font-family="Arial,sans-serif" font-weight="900">KORSUP</text><path d="M36 108H429" stroke="#a5a19b" stroke-width="2"/><text x="30" y="222" font-size="69" fill="#222226" font-family="Arial Black,Arial,sans-serif" font-weight="900">SKILLS</text><text x="30" y="299" font-size="74" fill="#ff6945" font-family="Arial Black,Arial,sans-serif" font-weight="900">PACK.</text><text x="36" y="377" font-size="20" letter-spacing="2" fill="#76716b" font-family="Arial,sans-serif">SIX AREAS / ONE COLLECTION</text></g>
+<rect x="60" y="32" width="77" height="13" rx="6" fill="#ff6945"/>
+<path d="M841 116l73-73m0 0h-47m47 0v47" stroke="#ff6945" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

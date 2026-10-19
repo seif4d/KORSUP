@@ -1,0 +1,17 @@
+{
+  "name": "KORSUP — كورس أب",
+  "short_name": "KORSUP",
+  "lang": "ar-EG",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c0e",
+  "theme_color": "#ff6748",
+  "icons": [
+    {
+      "src": "assets/pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

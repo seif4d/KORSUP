@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="900" viewBox="0 0 1030 900"><defs>
+ <linearGradient id="burn" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb487"/><stop offset=".45" stop-color="#ff6945"/><stop offset="1" stop-color="#e64222"/></linearGradient>
+ <linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#323035"/><stop offset="1" stop-color="#121317"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ff6945" stop-opacity=".3"/><stop offset="1" stop-color="#ff6945" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="210%"><feDropShadow dx="1" dy="23" stdDeviation="22" flood-color="#000000" flood-opacity=".5"/></filter>
+ <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="28"/></filter>
+ </defs><ellipse cx="568" cy="440" rx="495" ry="406" fill="url(#glow)"/>
+<circle cx="545" cy="446" r="359" fill="none" stroke="#676168" stroke-opacity=".28" stroke-width="2"/>
+<circle cx="545" cy="446" r="278" fill="none" stroke="#817175" stroke-opacity=".19" stroke-dasharray="5 13" stroke-width="2"/>
+<path d="M98 716Q542 886 938 612" fill="none" stroke="#ff6945" stroke-opacity=".7" stroke-width="4" stroke-dasharray="3 15" stroke-linecap="round"/>
+<g filter="url(#shadow)" transform="translate(179 113) rotate(-11 365 382)">
+<rect x="123" y="97" width="570" height="628" rx="27" fill="#29272a" stroke="#5a5255" stroke-width="3"/>
+<rect x="142" y="116" width="531" height="590" rx="20" fill="url(#black)"/>
+<path d="M143 200H672" stroke="#544447" stroke-width="2"/>
+<text x="180" y="167" fill="#f3f0e9" font-size="28" font-weight="700" font-family="Arial,sans-serif">KORSUP</text>
+<circle cx="635" cy="161" r="8" fill="#ff6945"/>
+<text x="184" y="302" font-size="27" letter-spacing="4" fill="#9b9297" font-weight="700" font-family="Arial,sans-serif">THE ULTIMATE</text>
+<text x="178" y="403" font-size="91" fill="#f3f0e9" font-weight="900" letter-spacing="-5" font-family="Arial Black,Arial,sans-serif">SKILLS</text>
+<text x="178" y="504" font-size="94" fill="#ff6945" font-weight="900" letter-spacing="-5" font-family="Arial Black,Arial,sans-serif">PACK.</text>
+<path d="M183 560H636" stroke="#66555a" stroke-width="2"/>
+<text x="184" y="616" fill="#aaa3a4" font-size="20" letter-spacing="1.8" font-family="Arial,sans-serif">ONE PACK / SIX AREAS</text>
+<path d="M583 638l62-61v46m0-46h-46" fill="none" stroke="#ff6945" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g filter="url(#shadow)" transform="translate(30 130) rotate(-16 165 240)">
+<rect x="19" y="105" width="215" height="274" rx="24" fill="#f3f0e9"/>
+<path d="M65 183l28-28 51 51-51 51-28-28m117-83h-38m38 0v39" fill="none" stroke="#ff6945" stroke-width="11" stroke-linecap="round"/>
+<text x="50" y="321" font-size="27" font-weight="800" fill="#191719" font-family="Arial,sans-serif">CREATE</text>
+</g>
+<g filter="url(#shadow)" transform="translate(692 140) rotate(13 128 145)">
+<rect x="0" y="0" width="229" height="264" rx="23" fill="#ff6945"/>
+<circle cx="115" cy="113" r="63" fill="none" stroke="#1a1112" stroke-width="11"/>
+<path d="M115 69v88M75 113h80" stroke="#1a1112" stroke-width="9" stroke-linecap="round"/>
+<text x="40" y="224" font-size="30" font-weight="900" fill="#1a1112" font-family="Arial,sans-serif">EXPLORE</text>
+</g>
+<g filter="url(#shadow)" transform="translate(740 564) rotate(9 105 96)">
+<rect x="0" y="0" width="228" height="176" rx="20" fill="#d4f1a9"/>
+<path d="M39 116l48-48 38 39 54-60" fill="none" stroke="#20231b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M143 47h36v36" fill="none" stroke="#20231b" stroke-width="9"/>
+<text x="29" y="156" font-size="24" font-weight="800" fill="#20231b" font-family="Arial,sans-serif">GROW</text>
+</g>
+<path d="M928 95l53-55M950 40h31v31" stroke="#ff6945" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M84 91l7 22 22 7-22 7-7 22-7-22-22-7 22-7z" fill="#ff6945"/>
+</svg>
